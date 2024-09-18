@@ -1,0 +1,8 @@
+.env*
+node_modules/
+logs/*
+test.js
+*.zip
+.vscode
+*.log
+dist
